@@ -1,2 +1,6 @@
 To jest text pisany w Vimie 
 chcesz wyjsc? wcisnij esc :wq
+
+olala
+
+nowy koment da praktyki
