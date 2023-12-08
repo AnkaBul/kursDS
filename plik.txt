@@ -1,0 +1,2 @@
+To jest text pisany w Vimie 
+chcesz wyjsc? wcisnij esc :wq
